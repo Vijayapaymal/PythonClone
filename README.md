@@ -1,2 +1,2 @@
 # PythonClone
-Yogymax clone of newPythonTmp
+Yogymax clone of python
